@@ -93,7 +93,7 @@ abstract class Produk
         $this->diskon = $diskon;
     }
     public function getDiskon($diskon)
-    {
+    {                                                                                                                                       
         return $this->diskon = $diskon;
     }
 }
